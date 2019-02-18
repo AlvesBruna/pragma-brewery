@@ -1,0 +1,15 @@
+.thermostat{
+    .display{
+        font-size: 45px;
+    }
+    .actions{
+        display: flex;
+        align-self: center;
+        justify-content: center;
+        padding: 0;
+        margin-bottom: 5px; 
+        button{
+            margin-left:4px;            
+        }
+    }
+}

@@ -1,3 +1,4 @@
 import { beers } from './beers';
+import { increaseTemperature, decreaseTemperature } from './actions';
 
-export { beers };
+export { beers, increaseTemperature, decreaseTemperature };

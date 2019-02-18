@@ -1,5 +1,5 @@
 import { combineReducers } from 'redux';
-import { beersReducers } from './Beers';
+import { beersReducers } from './beers';
 
 const rootReducer = combineReducers(beersReducers);
 

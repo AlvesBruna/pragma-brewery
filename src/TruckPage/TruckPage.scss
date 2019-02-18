@@ -1,0 +1,21 @@
+.truck{
+    .tractor-unit{
+        background-image: url('../assets/truck.JPG');
+        background-repeat: no-repeat;
+        background-position-y: center;
+        height: 100%;
+        width: 285px;
+        float: left;
+    }
+    .semi-trailer{
+        display: flex;
+        align-self: center;
+        flex-wrap: wrap;
+        width: 100%;
+        height: auto;
+        min-height: 300px;
+        border: 10px solid #e27b1f;
+        border-radius: 5px;
+        box-shadow: -18px 32px 0px 8px rgba(230,230,230,1);
+    }
+}

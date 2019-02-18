@@ -1,0 +1,6 @@
+.thermometer-card{
+    &.out-range{
+        border-color: #c71100;
+        background-color: #f8d7da;
+    }
+}
